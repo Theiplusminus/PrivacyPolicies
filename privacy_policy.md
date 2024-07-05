@@ -45,5 +45,5 @@ Thank you for using Ghumo!
 
 ---
 
-[Back to Ghumo](https://github.com/Theiplusminus/privacy-policies/blob/main/privacy_policy.md)
+[Back to Ghumo](https://github.com/Theiplusminus/PrivacyPolicies/blob/main/privacy_policy.md)
 
